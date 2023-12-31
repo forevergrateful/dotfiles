@@ -1,8 +1,7 @@
-# This is Git's per-user configuration file.
 [user]
-name = Joel Van Eenwyk
-email = joel.vaneenwyk@gmail.com
-signingkey = F7B61CE9EF223B20
+name = forevergrateful
+email = forevergrateful@gmail.com
+signingkey = 7DEE87B6542D9DC9
 
 [init]
 defaultBranch = main
