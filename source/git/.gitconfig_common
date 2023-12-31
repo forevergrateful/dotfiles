@@ -1,7 +1,7 @@
 [user]
 name = forevergrateful
-email = forevergrateful@gmail.com
-signingkey = 7DEE87B6542D9DC9
+email = 59264343+forevergrateful@users.noreply.github.com
+signingkey = C:/Users/Zee_Server/.ssh/id_ed25519.pub
 
 [init]
 defaultBranch = main
@@ -10,6 +10,7 @@ defaultBranch = main
 symlinks = true
 packedGitLimit = 128m
 packedGitWindowSize = 128m
+autocrlf = false
 
 [pack]
 deltaCacheSize = 256m

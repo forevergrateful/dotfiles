@@ -1,4 +1,5 @@
 * text=auto
 *.sh=lf
-setup=lf
+setup.sh=lf
+clean.sh=lf
 pre-commit=lf
